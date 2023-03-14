@@ -49,7 +49,7 @@ class App extends JFrame
 	}
 }
 
-class P1
+class Welcome_App
 {
 	public static void main(String args[])
 	{
